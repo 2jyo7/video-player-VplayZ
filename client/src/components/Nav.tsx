@@ -42,7 +42,7 @@ const Nav = () => {
 
         <div className="hidden md:flex md:space-x-10">
           <Link
-            href="https://docs.pingping.io"
+            href="https://github.com/2jyo7/video-player-VplayZ"
             target="_blank"
             className="font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out"
           >
